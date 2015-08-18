@@ -1,4 +1,4 @@
-# Starting (NPM, Event-loop, Debugger)
+# Getting Started (NPM, Event-loop, Debugger)
 
 ##[NPM](https://semaphoreci.com/community/tutorials/npm-node-js-package-manager)
 
