@@ -1,3 +1,6 @@
 # Node.js Study Group
 
-##[Getting Started](https://github.com/nicolaspeixoto/node-study-group/tree/master/1-Getting%20Started)
+##[Description]
+This is a simple project for nodejs tutorials and sample apps.
+
+We will add more samples as the study group evolves.
