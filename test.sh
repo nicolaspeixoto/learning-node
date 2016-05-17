@@ -3,6 +3,7 @@
 #http://expressjs.com/en/starter/hello-world.html
 #http://expressjs.com/en/api.html#req
 
+#Implement an http server to handle http calls:
 curl -X POST -H "content-type: application/json" --data '{"name": "studygroup", "company": "ADP"}' localhost:3000/users/
 curl -X GET localhost:3000/users/
 
