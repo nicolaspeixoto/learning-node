@@ -3,7 +3,7 @@
 ##Description
 Create a rest to store user information in mongodb.
 
-You need to start mongodb before start your server:
+You need to start mongodb first:
 ``bash
 nohup /usr/bin/mongod --smallfiles &
 ``
